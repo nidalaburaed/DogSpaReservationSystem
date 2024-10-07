@@ -1,6 +1,7 @@
 # Dog Spa, Time Reservation Software Solution
 
-![image](https://github.com/user-attachments/assets/0e61bb29-6128-44bb-a671-2a799ea1f9ba)
+![image](https://github.com/user-attachments/assets/2712bf79-0cd7-4344-8d1a-afae49c83a71)
+
 
 ## Inqueries
 
